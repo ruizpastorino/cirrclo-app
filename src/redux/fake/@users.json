@@ -1,0 +1,12 @@
+[
+  {
+    "email": "circclotest@gmail.com",
+    "password": "demo",
+    "profile": {
+      "name": "circclo",
+      "lastname": "test",
+      "fullname":"circclo test",
+      "category": "test-user"
+    }
+  }
+]

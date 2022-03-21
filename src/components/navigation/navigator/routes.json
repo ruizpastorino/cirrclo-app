@@ -1,0 +1,66 @@
+{
+  "navigation": [
+    {
+      "path": "supplies/inventory",
+      "label": "insumos",
+      "icon": "fa-solid fa-parachute-box"
+    },
+    {
+      "path": "products/inventory",
+      "label": "productos",
+      "icon": "fas fa-box-open"
+    },
+    {
+      "path": "containers",
+      "label": "envases",
+      "icon": "fa-solid fa-arrows-rotate"
+    },
+    {
+      "path": "orders",
+      "label": "pedidos",
+      "icon": "fas fa-dolly"
+    },
+    {
+      "path": "customers",
+      "label": "clientes",
+      "icon": "fa-solid fa-users"
+    },
+    {
+      "path": "routes",
+      "label": "rutas",
+      "icon": "fas fa-map-marker"
+    },
+    {
+      "path": "analitycs",
+      "label": "metricas",
+      "icon": "fas fa-chart-pie"
+    }
+  ],
+  "config": [
+    {
+      "path": "profile",
+      "label": "perfil",
+      "icon": "fas fa-user-tie"
+    },
+    {
+      "path": "users",
+      "label": "usuarios",
+      "icon": "fas fa-users"
+    },
+    {
+      "path": "alerts",
+      "label": "alertas",
+      "icon": "fas fa-bell"
+    },
+    {
+      "path": "general",
+      "label": "general",
+      "icon": "fas fa-cog"
+    },
+    {
+      "path": "board",
+      "label": "tablero",
+      "icon": "fas fa-chalkboard"
+    }
+  ]
+}

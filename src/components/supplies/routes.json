@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/app/supplies/analitycs",
+    "label": "Métricas"
+  },
+  {
+    "path": "/app/supplies/inventory",
+    "label": "Inventario"
+  }
+]

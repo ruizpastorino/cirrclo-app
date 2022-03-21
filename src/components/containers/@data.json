@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Botella",
+    "capacity": 1000,
+    "supplies": [
+      {
+        "id": "tag-id",
+        "name": "etiqueta",
+        "cost": 20
+      },
+      {
+        "id": "tapa-1",
+        "name": "tapa",
+        "cost": 5
+      },
+      {
+        "id": "env-1",
+        "name": "envase",
+        "cost": 50
+      }
+    ],
+    "price": 100,
+    "provider": "tucuman plasticos",
+    "quantity": 19
+  },
+  {
+    "id": 2,
+    "name": "Bidon",
+    "capacity": 5000,
+    "supplies": [
+      {
+        "id": "tag-id",
+        "name": "etiqueta",
+        "cost": 20
+      },
+      {
+        "id": "tapa-1",
+        "name": "tapa",
+        "cost": 5
+      },
+      {
+        "id": "env-1",
+        "name": "envase",
+        "cost": 70
+      }
+    ],
+    "price": 200,
+    "provider": "tucuman plasticos",
+    "quantity": 30
+  },
+  {
+    "id": 3,
+    "name": "Bidon ecco",
+    "capacity": 5000,
+    "supplies": [
+      {
+        "id": "tag-id",
+        "name": "etiqueta",
+        "cost": 20
+      },
+      {
+        "id": "tapa-1",
+        "name": "tapa",
+        "cost": 5
+      },
+      {
+        "id": "env-1",
+        "name": "envase",
+        "cost": 70
+      }
+    ],
+    "price": 200,
+    "provider": "mr plastic",
+    "quantity": 33
+  }
+]
