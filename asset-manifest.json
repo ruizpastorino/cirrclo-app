@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cirrclo-app/static/css/main.c1245b86.css",
-    "main.js": "/cirrclo-app/static/js/main.f688eb60.js",
-    "static/media/login-spot.jpg": "/cirrclo-app/static/media/login-spot.c0d359b5a1b0bb7116d2.jpg",
-    "static/media/fa-solid-900.ttf": "/cirrclo-app/static/media/fa-solid-900.79da213423ac0def2058.ttf",
-    "static/media/fa-brands-400.ttf": "/cirrclo-app/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
-    "static/media/fa-solid-900.woff2": "/cirrclo-app/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
-    "static/media/fa-brands-400.woff2": "/cirrclo-app/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
-    "static/media/fa-regular-400.ttf": "/cirrclo-app/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
-    "static/media/fa-regular-400.woff2": "/cirrclo-app/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
-    "static/media/logo.png": "/cirrclo-app/static/media/logo.a8092625441c2f4188e2.png",
-    "static/media/fa-v4compatibility.ttf": "/cirrclo-app/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
-    "static/media/fa-v4compatibility.woff2": "/cirrclo-app/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
-    "index.html": "/cirrclo-app/index.html",
-    "main.c1245b86.css.map": "/cirrclo-app/static/css/main.c1245b86.css.map",
-    "main.f688eb60.js.map": "/cirrclo-app/static/js/main.f688eb60.js.map"
+    "main.css": "/static/css/main.961ff486.css",
+    "main.js": "/static/js/main.5c95382c.js",
+    "static/media/login-spot.jpg": "/static/media/login-spot.c0d359b5a1b0bb7116d2.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/logo.png": "/static/media/logo.a8092625441c2f4188e2.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
+    "index.html": "/index.html",
+    "main.961ff486.css.map": "/static/css/main.961ff486.css.map",
+    "main.5c95382c.js.map": "/static/js/main.5c95382c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1245b86.css",
-    "static/js/main.f688eb60.js"
+    "static/css/main.961ff486.css",
+    "static/js/main.5c95382c.js"
   ]
 }
