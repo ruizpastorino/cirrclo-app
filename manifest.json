@@ -2,7 +2,7 @@
   "short_name": "React_App",
   "name": "Create_React_App_Sample",
   "icons": [],
-  "start_url": "./",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
